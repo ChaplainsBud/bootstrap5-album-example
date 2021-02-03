@@ -12,3 +12,7 @@ https://www.youtube.com/watch?v=UQGlblNS9so
 
 Google Fonts
 Font Awesome: social media icons
+
+Background image tinting for text on top:
+
+https://css-tricks.com/design-considerations-text-images/

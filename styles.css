@@ -4,7 +4,7 @@
 
 main {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(./serving.jpg);
+    url(https://res.cloudinary.com/a-name-not-already-taken/image/upload/v1612317146/butler/serving_padwhx.jpg);
   /* background-position: center; */
   background-size: contain;
   background-repeat: no-repeat;
