@@ -1,3 +1,11 @@
 /* #scotch {
   background-image: url("https://res.cloudinary.com/a-name-not-already-taken/image/upload/v1612295100/pizza/scotch_stout_mfewwg.jpg");
 } */
+
+main {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(./serving.jpg);
+  /* background-position: center; */
+  background-size: contain;
+  background-repeat: no-repeat;
+}
